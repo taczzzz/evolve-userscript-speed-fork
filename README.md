@@ -1,4 +1,4 @@
-# Evolve Userscript Speed Fork
+# Evolve Userscript Speed Fork / Evolve时间流速修改（作弊）
 
 基于 `by22dgb/evolvescript` 的本地修改版。
 
