@@ -22,6 +22,9 @@
 //   - 20x and below are currently usable in normal play
 //   - 20x and above can break spy missions
 //   - 100x can freeze the game intermittently
+//   - Enabling time acceleration is considered cheating
+//   - I do not recommend using it
+//   - This functionality is for my own use only
 //
 // This script forked from TMVictor's script version 3.3.1. Original script: https://gist.github.com/TMVictor/3f24e27a21215414ddc68842057482da
 // Removed downloadURL in case that script got screwed up. Original downloadURL: @downloadURL  https://gist.github.com/Vollch/b1a5eec305558a48b7f4575d317d7dd1/raw/evolve_automation.user.js
