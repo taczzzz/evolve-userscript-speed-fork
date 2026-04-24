@@ -1,2 +1,4 @@
 .DS_Store
 .playwright-cli/
+evolve-*.txt
+*.txt.bak-*
